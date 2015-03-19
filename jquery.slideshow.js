@@ -1,3 +1,10 @@
+
+/*
+
+  REQUIRES JQUERY-UI-EFFECTS CORE TO DO PUSH AND PULL ANIMATION
+
+*/
+
 ;(function($, window, undefined){ "use strict";
 
 /**
